@@ -22,13 +22,13 @@ Este proyecto realiza la segmentación de un objeto principal en una imagen util
 1. Clona el repositorio:
 
 ```bash id="git3x1"
-git clone https://github.com/tu-usuario/image-segmentation-background-replacement.git
+git clone https://github.com/Asiel-Bee-Bug/segmentacion-and-reemplazo-fondo/tree/main
 ```
 
 2. Entra a la carpeta:
 
 ```bash id="cd3x1"
-cd image-segmentation-background-replacement
+cd segmentacion-and-reemplazo-fondo
 ```
 
 3. Instala dependencias:
@@ -47,7 +47,7 @@ fondog.jpg
 5. Ejecuta el programa:
 
 ```bash id="run3x1"
-python background_replace.py
+python reemplazo_fondo.py
 ```
 
 ## 🧠 ¿Cómo funciona?
@@ -75,6 +75,3 @@ python background_replace.py
 
 Practicar técnicas básicas de visión por computadora como segmentación, detección de contornos y manipulación de imágenes.
 
-## 👨‍💻 Autor
-
-Proyecto académico enfocado en procesamiento de imágenes.
